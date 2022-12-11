@@ -7,17 +7,17 @@ The signal was preprocessed with schemes to take the denoising effect, which is 
 
 The class labels are as follows.
 
-├── Dataset
-    ├── LR   ===> Class Type 0
-    ├── RL   ===> Class Type 1
-    ├── AB   ===> Class Type 2
-    ├── AD   ===> Class Type 3
-    ├── BA   ===> Class Type 4
-    ├── CB   ===> Class Type 5
-    ├── CD   ===> Class Type 6
-    ├── DA   ===> Class Type 7
-    ├── Down ===> Class Type 8
-    ├── UP   ===> Class Type 9
+    ├── Dataset
+    │   ├── LR   ===> Class Type 0
+    │   ├── RL   ===> Class Type 1
+    │   ├── AB   ===> Class Type 2
+    │   ├── AD   ===> Class Type 3
+    │   ├── BA   ===> Class Type 4
+    │   ├── CB   ===> Class Type 5
+    │   ├── CD   ===> Class Type 6
+    │   ├── DA   ===> Class Type 7
+    │   ├── Down ===> Class Type 8
+    │   ├── UP   ===> Class Type 9
     
 Each gesture consists of 100 datasets, having 1000 gestures in total.
 
