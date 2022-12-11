@@ -22,3 +22,5 @@ The class labels are as follows.
 Each gesture consists of 100 datasets, having 1000 gestures in total.
 
 Currently, our paper "Designing Real-Time User-Interface Control System with Motion Gestures Recognition via Non-Contact Capacitive Sensing, H. Lee, et al.," is under review in Human–Computer Interaction Journal.
+
+If using this dataset, please cite this GitHub: https://github.com/hml763/Motion-Gestures-Recognition-via-Non-Contact-Capacitive-Sensing
