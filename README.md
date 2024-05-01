@@ -21,12 +21,12 @@ The class labels are as follows.
     
 Each gesture consists of 100 datasets, having 1000 gestures in total.
 
-If using this dataset, please cite our work: "Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing", IEEE Sensors Journal, 2024.
+If using this dataset, please cite our work: "Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing", IEEE Sensors Journal, 2024. <br>
 
-@article{lee2024towards,
-  title={Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing},
-  author={Lee, Hunmin and Bae, Jihun and Lee, Hyeongok},
-  journal={IEEE Sensors Journal},
-  year={2024},
-  publisher={IEEE}
+@article{lee2024towards, <br>
+  title={Towards Utilization of Explainable Hand Motion Recognition in 3D Capacitive Proximity Sensing}, <br>
+  author={Lee, Hunmin and Bae, Jihun and Lee, Hyeongok}, <br>
+  journal={IEEE Sensors Journal}, <br>
+  year={2024}, <br>
+  publisher={IEEE} <br>
 }
